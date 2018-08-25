@@ -1,3 +1,1 @@
-# Actions on Google
-## Dialogflow
-### BAFYC AAApartment Search
+# Actions on Google via Dialogflow
