@@ -1,0 +1,28 @@
+{
+  "id": "3a7002de-14ae-4aed-ae6d-3a5b7ace03e6",
+  "name": "ask_for_place_confirmation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535063796,
+  "fallbackIntent": false,
+  "events": []
+}

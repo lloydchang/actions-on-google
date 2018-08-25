@@ -1,0 +1,38 @@
+[
+  {
+    "value": "1 bedroom",
+    "synonyms": [
+      "1 bedroom"
+    ]
+  },
+  {
+    "value": "2 bedrooms",
+    "synonyms": [
+      "2 bedrooms"
+    ]
+  },
+  {
+    "value": "townhouse",
+    "synonyms": [
+      "townhouse"
+    ]
+  },
+  {
+    "value": "flat",
+    "synonyms": [
+      "flat"
+    ]
+  },
+  {
+    "value": "regular apartment",
+    "synonyms": [
+      "regular apartment"
+    ]
+  },
+  {
+    "value": "@type",
+    "synonyms": [
+      "@type"
+    ]
+  }
+]

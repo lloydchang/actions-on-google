@@ -1,0 +1,56 @@
+[
+  {
+    "value": "washing machine",
+    "synonyms": [
+      "washing machine"
+    ]
+  },
+  {
+    "value": "garage",
+    "synonyms": [
+      "garage"
+    ]
+  },
+  {
+    "value": "pets",
+    "synonyms": [
+      "pets"
+    ]
+  },
+  {
+    "value": "bathrooms",
+    "synonyms": [
+      "bathrooms"
+    ]
+  },
+  {
+    "value": "bedrooms",
+    "synonyms": [
+      "bedrooms"
+    ]
+  },
+  {
+    "value": "bus line",
+    "synonyms": [
+      "bus line"
+    ]
+  },
+  {
+    "value": "parking",
+    "synonyms": [
+      "parking"
+    ]
+  },
+  {
+    "value": "dryer",
+    "synonyms": [
+      "dryer"
+    ]
+  },
+  {
+    "value": "amentities",
+    "synonyms": [
+      "amentities"
+    ]
+  }
+]

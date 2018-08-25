@@ -1,0 +1,98 @@
+[
+  {
+    "id": "4bf2fbd7-dcb2-4757-b9c4-29501a91bf7a",
+    "data": [
+      {
+        "text": "under ",
+        "userDefined": false
+      },
+      {
+        "text": "3000 dollars",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " with a ",
+        "userDefined": false
+      },
+      {
+        "text": "washing machine",
+        "alias": "amenities",
+        "meta": "@amenities",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535063357
+  },
+  {
+    "id": "e67bb2f8-a2b2-4865-beb9-572bfb2d96a8",
+    "data": [
+      {
+        "text": "My max is ",
+        "userDefined": false
+      },
+      {
+        "text": "500",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535063357
+  },
+  {
+    "id": "b7c07894-2744-4217-aae8-600bc6304b8c",
+    "data": [
+      {
+        "text": "About ",
+        "userDefined": false
+      },
+      {
+        "text": "1000",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535063357
+  },
+  {
+    "id": "86926c5f-ac83-4f79-9278-7fe6da7bd450",
+    "data": [
+      {
+        "text": "Under ",
+        "userDefined": false
+      },
+      {
+        "text": "2000",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535063357
+  },
+  {
+    "id": "56dc3d10-775f-436a-b919-ea56a3910a50",
+    "data": [
+      {
+        "text": "2000",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535063357
+  }
+]

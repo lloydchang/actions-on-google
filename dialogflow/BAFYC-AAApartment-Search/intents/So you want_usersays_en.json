@@ -1,0 +1,50 @@
+[
+  {
+    "id": "dc7b02fc-6f69-4eb0-959b-1df6499d5f87",
+    "data": [
+      {
+        "text": "So you want ",
+        "userDefined": false
+      },
+      {
+        "text": "apartment",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "amentities",
+        "alias": "amenities",
+        "meta": "@amenities",
+        "userDefined": true
+      },
+      {
+        "text": " near ",
+        "userDefined": false
+      },
+      {
+        "text": "location",
+        "alias": "location",
+        "meta": "@sys.location",
+        "userDefined": true
+      },
+      {
+        "text": " at a max price of ",
+        "userDefined": false
+      },
+      {
+        "text": "currency",
+        "alias": "unit-currency",
+        "meta": "@sys.unit-currency",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535061758
+  }
+]

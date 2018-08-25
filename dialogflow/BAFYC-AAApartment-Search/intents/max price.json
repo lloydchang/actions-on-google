@@ -1,0 +1,51 @@
+{
+  "id": "e6a734a7-e0d7-4b01-8571-84460c697384",
+  "name": "max price",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3b70a58c-a6f9-4b89-a498-a458963ec016",
+          "required": true,
+          "dataType": "@sys.unit-currency",
+          "name": "unit-currency",
+          "value": "$unit-currency",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What kind of apartement are you looking for?"
+            }
+          ],
+          "isList": true
+        },
+        {
+          "id": "cac1e587-837b-4bfc-8dc2-3a541a7b5b46",
+          "required": false,
+          "dataType": "@amenities",
+          "name": "amenities",
+          "value": "$amenities",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535063357,
+  "fallbackIntent": false,
+  "events": []
+}

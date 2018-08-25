@@ -1,0 +1,53 @@
+{
+  "id": "c5141d32-a9d4-4416-990e-5a0152790381",
+  "name": "So you want",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0da03529-f1b0-4460-ba14-6d9d7ec74a0a",
+          "required": false,
+          "dataType": "@amenities",
+          "name": "amenities",
+          "value": "$amenities",
+          "isList": false
+        },
+        {
+          "id": "f069a437-791d-42c4-a334-065cf2152937",
+          "required": false,
+          "dataType": "@sys.location",
+          "name": "location",
+          "value": "$location",
+          "isList": false
+        },
+        {
+          "id": "16a58573-54ac-4ea3-b8af-43c15bf2c747",
+          "required": false,
+          "dataType": "@sys.unit-currency",
+          "name": "unit-currency",
+          "value": "$unit-currency",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535064386,
+  "fallbackIntent": false,
+  "events": []
+}
