@@ -1,3 +1,3 @@
-# Actions on Google via Dialogflow
+# Actions on Google Assistant via Dialogflow
 
 https://codelabs.developers.google.com/?cat=Assistant
